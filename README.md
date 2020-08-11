@@ -1,5 +1,5 @@
 # Twitter-Sentiment-Analysis
-Basically,this project finds the polarity of the comments comaparin their sentiment score that are being passed by any user on certain keyword. Here, polarity refers sense of the user, the comment would be in positive,negative and neutral sense.
+Basically, this project finds the polarity of the comments comparing their sentiment score that are being passed by any user on certain keyword like 'budget2019', 'Avengers'. Here, polarity refers sense of the user, the comment would be in positive, negative and neutral sense.
 
 ## Using python libraries:
 We make use of the python libraries like tweepy, textblob for the sentiment analysis 
